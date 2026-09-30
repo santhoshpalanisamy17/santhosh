@@ -49,6 +49,9 @@ body {
     color: white;
     background: rgb(70, 68, 68);
   }
+  .hi{
+    background-color: aqua;
+  }
 
   .grey {
     background: rgb(94, 94, 94);
@@ -59,8 +62,10 @@ body {
     background: orangered;
     color: white;
   }
-
   .zero-double {
-    border-radius: 40px;
     
+    border-radius: 40px;
+    aspect-ratio: auto;
   }
+
+  
